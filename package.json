@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "14.17.0",
+  "description": "a simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amlannath95/introtonode.git"
+  },
+  "author": "Amlan Nath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amlannath95/introtonode/issues"
+  },
+  "homepage": "https://github.com/amlannath95/introtonode#readme"
+}
